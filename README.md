@@ -62,27 +62,17 @@ DRDO-NEXTGEN/
 
 ---
 
-## 📸 Preview
-
-Add screenshots of your project here after deployment.
-
----
-
 ## 🌐 Live Demo
 
 GitHub Pages:
-(Add your deployed link here)
-
-Example:
-
-https://yourusername.github.io/drdo-nextgen/
+https://krishna-7781.github.io/SCT_WD_1/
 
 ---
 
 ## 📁 Repository
 
 GitHub Repository:
-(Add your repository link here)
+https://github.com/Krishna-7781/SCT_WD_1
 
 ---
 
